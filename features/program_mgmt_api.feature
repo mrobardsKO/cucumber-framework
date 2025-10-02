@@ -119,7 +119,7 @@ Feature: Program Management API
       """
       {
         "programSummary": {
-          "name": "MR Test 818 pin 10",
+          "name": "MR Test 101 pin 10",
           "startDate": "2025-10-01T00:00:00.000Z",
           "localStartTimezone": "UTC",
           "localEndTimezone": "UTC",

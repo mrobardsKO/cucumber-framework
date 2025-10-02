@@ -7,7 +7,7 @@ Feature: Create a Pincode Program
       """
       {
         "programSummary": {
-          "name": "MR Test EME pin 1",
+          "name": "MR Test EME pin 2",
           "startDate": "2025-10-02T00:00:00.000Z",
           "localStartTimezone": "UTC",
           "localEndTimezone": "UTC",
